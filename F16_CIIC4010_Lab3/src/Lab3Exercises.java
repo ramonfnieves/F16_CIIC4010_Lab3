@@ -12,7 +12,7 @@ public class Lab3Exercises {
 		myFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		myFrame.setTitle("Ramon Nieves");
 		myFrame.setLocation(800, 400);
-		myFrame.setSize(200, 200);
+		myFrame.setSize(210, 150);
 		myFrame.setVisible(true);
 	}
 }
